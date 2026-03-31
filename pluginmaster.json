@@ -17,11 +17,11 @@
   "ImageUrls": [
     ""
   ],
-  "DownloadLinkInstall": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3.1/latest.zip",
+  "DownloadLinkInstall": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3/latest.zip",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkTesting": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3.1/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3.1/latest.zip",
+  "DownloadLinkTesting": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3/latest.zip",
   "LastUpdate": "1766232634"
   }
 ]
