@@ -6,7 +6,7 @@
   "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
   "Changelog": "",
   "InternalName": "ReAction",
-  "AssemblyVersion": "1.3.4.3.1",
+  "AssemblyVersion": "1.3.4.3",
   "RepoUrl": "https://github.com/fiexiv/ReAction",
   "ApplicableVersion": "any",
   "CategoryTags": [
