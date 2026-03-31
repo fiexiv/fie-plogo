@@ -1,4 +1,5 @@
-﻿{
+﻿[
+  {
   "Author": "UnknownX7",
   "Name": "ReAction-Extras",
   "Punchline": "QoL for the battle system. + personal stuff",
@@ -22,4 +23,5 @@
   "DownloadLinkTesting": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3.1/latest.zip",
   "DownloadLinkUpdate": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3.1/latest.zip",
   "LastUpdate": "1766232634"
-}
+  }
+]
