@@ -1,0 +1,25 @@
+﻿{
+  "Author": "UnknownX7",
+  "Name": "ReAction-Extras",
+  "Punchline": "QoL for the battle system. + personal stuff",
+  "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+  "Changelog": "",
+  "InternalName": "ReAction",
+  "AssemblyVersion": "1.3.4.3.1",
+  "RepoUrl": "https://github.com/fiexiv/ReAction",
+  "ApplicableVersion": "any",
+  "CategoryTags": [
+    "jobs"
+  ],
+  "DalamudApiLevel": 14,
+  "IconUrl": "",
+  "ImageUrls": [
+    ""
+  ],
+  "DownloadLinkInstall": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3.1/latest.zip",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkTesting": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3.1/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.3.1/latest.zip",
+  "LastUpdate": "1766232634"
+}
