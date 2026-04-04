@@ -1,4 +1,4 @@
-﻿[
+[
   {
   "Author": "UnknownX7",
   "Name": "ReAction-Extras",
@@ -23,15 +23,15 @@
   "DownloadLinkTesting": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.4/latest.zip",
   "DownloadLinkUpdate": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.4/latest.zip",
   "LastUpdate": "1766232634"
-  }
-     {
+  },
+  {
     "Author": "attick, daemitus, Khayle",
     "Name": "XIV Combo Expanded Expanded",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. +pct/sam combo changes",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
     "InternalName": "XIVComboExpanded",
     "AssemblyVersion": "2.0.5.0",
-    "RepoUrl": "https://github.com/fiexiv/XIVComboExpandedn",
+    "RepoUrl": "https://github.com/fiexiv/XIVComboExpanded",
     "ApplicableVersion": "any",
     "Tags": [
       "combo",
@@ -50,4 +50,4 @@
     "DownloadLinkUpdate": "https://github.com/fiexiv/XIVComboExpanded/releases/download/1/latest.zip",
     "LastUpdate": "1766088211"
   }
- ]
+]
