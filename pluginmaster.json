@@ -43,11 +43,11 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/fiexiv/XIVComboExpanded/releases/download/1/latest.zip",
+    "DownloadLinkInstall": "https://github.com/fiexiv/XIVComboExpanded/releases/download/2/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/fiexiv/XIVComboExpanded/releases/download/1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/fiexiv/XIVComboExpanded/releases/download/1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/fiexiv/XIVComboExpanded/releases/download/2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/fiexiv/XIVComboExpanded/releases/download/2/latest.zip",
     "LastUpdate": "1766088211"
   }
 ]
