@@ -12,7 +12,7 @@
   "CategoryTags": [
     "jobs"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "IconUrl": "",
   "ImageUrls": [
     ""
@@ -39,7 +39,7 @@
       "expanded",
       "pcombo"
     ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
     "ImageUrls": [],
