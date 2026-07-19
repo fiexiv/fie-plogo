@@ -30,7 +30,7 @@
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. +pct/sam combo changes",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
     "InternalName": "XIVComboExpanded",
-    "AssemblyVersion": "3.0.0.0.0",
+    "AssemblyVersion": "3.0.0.0",
     "RepoUrl": "https://github.com/fiexiv/XIVComboExpanded",
     "ApplicableVersion": "any",
     "Tags": [
