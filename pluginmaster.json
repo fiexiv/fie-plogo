@@ -17,11 +17,11 @@
   "ImageUrls": [
     ""
   ],
-  "DownloadLinkInstall": "https://github.com/fiexiv/ReAction/releases/download/1.3.4.4/latest.zip",
+  "DownloadLinkInstall": "https://github.com/fiexiv/ReAction/releases/download/2/latest.zip",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkTesting": "https://github.com/fiexiv/ReAction/releases/download/1.3.4.4/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/fiexiv/ReAction/releases/download/1.3.4.4/latest.zip",
+  "DownloadLinkTesting": "https://github.com/fiexiv/ReAction/releases/download/2/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/fiexiv/ReAction/releases/download/2/latest.zip",
   "LastUpdate": "1766232634"
   },
   {
@@ -43,11 +43,11 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/fiexiv/XIVComboExpanded/releases/download/2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/fiexiv/XIVComboExpanded/releases/download/3/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/fiexiv/XIVComboExpanded/releases/download/2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/fiexiv/XIVComboExpanded/releases/download/2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/fiexiv/XIVComboExpanded/releases/download/3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/fiexiv/XIVComboExpanded/releases/download/3/latest.zip",
     "LastUpdate": "1766088211"
   }
 ]
