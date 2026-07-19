@@ -6,7 +6,7 @@
   "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
   "Changelog": "",
   "InternalName": "ReAction",
-  "AssemblyVersion": "2",
+  "AssemblyVersion": "2.0.0.0",
   "RepoUrl": "https://github.com/fiexiv/ReAction",
   "ApplicableVersion": "any",
   "CategoryTags": [
@@ -30,7 +30,7 @@
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. +pct/sam combo changes",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
     "InternalName": "XIVComboExpanded",
-    "AssemblyVersion": "3",
+    "AssemblyVersion": "3.0.0.0.0",
     "RepoUrl": "https://github.com/fiexiv/XIVComboExpanded",
     "ApplicableVersion": "any",
     "Tags": [
