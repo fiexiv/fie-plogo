@@ -1,4 +1,4 @@
-﻿[
+[
   {
   "Author": "UnknownX7",
   "Name": "ReAction-Extras",
@@ -6,22 +6,22 @@
   "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
   "Changelog": "",
   "InternalName": "ReAction",
-  "AssemblyVersion": "1.3.4.4",
+  "AssemblyVersion": "2.0.0.1",
   "RepoUrl": "https://github.com/fiexiv/ReAction",
   "ApplicableVersion": "any",
   "CategoryTags": [
     "jobs"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "IconUrl": "",
   "ImageUrls": [
     ""
   ],
-  "DownloadLinkInstall": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.4/latest.zip",
+  "DownloadLinkInstall": "https://github.com/fiexiv/ReAction/releases/download/2.0.0.1/latest.zip",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkTesting": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.4/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/fiexiv/ReAction/releases/download/v1.3.4.4/latest.zip",
+  "DownloadLinkTesting": "https://github.com/fiexiv/ReAction/releases/download/2.0.0.1/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/fiexiv/ReAction/releases/download/2.0.0.1/latest.zip",
   "LastUpdate": "1766232634"
   },
   {
@@ -30,7 +30,7 @@
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. +pct/sam combo changes",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
     "InternalName": "XIVComboExpanded",
-    "AssemblyVersion": "2.0.5.0",
+    "AssemblyVersion": "3.0.0.0",
     "RepoUrl": "https://github.com/fiexiv/XIVComboExpanded",
     "ApplicableVersion": "any",
     "Tags": [
@@ -39,15 +39,15 @@
       "expanded",
       "pcombo"
     ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/fiexiv/XIVComboExpanded/releases/download/1/latest.zip",
+    "DownloadLinkInstall": "https://github.com/fiexiv/XIVComboExpanded/releases/download/3/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/fiexiv/XIVComboExpanded/releases/download/1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/fiexiv/XIVComboExpanded/releases/download/1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/fiexiv/XIVComboExpanded/releases/download/3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/fiexiv/XIVComboExpanded/releases/download/3/latest.zip",
     "LastUpdate": "1766088211"
   }
 ]
